@@ -1,0 +1,14 @@
+C:\Users\F\Documents\GitHub\Backend-Website\bin\Debug\netcoreapp2.1\Backend-Website.deps.json
+C:\Users\F\Documents\GitHub\Backend-Website\bin\Debug\netcoreapp2.1\Backend-Website.runtimeconfig.json
+C:\Users\F\Documents\GitHub\Backend-Website\bin\Debug\netcoreapp2.1\Backend-Website.runtimeconfig.dev.json
+C:\Users\F\Documents\GitHub\Backend-Website\bin\Debug\netcoreapp2.1\Backend-Website.dll
+C:\Users\F\Documents\GitHub\Backend-Website\bin\Debug\netcoreapp2.1\Backend-Website.pdb
+C:\Users\F\Documents\GitHub\Backend-Website\obj\Debug\netcoreapp2.1\Backend-Website.csprojAssemblyReference.cache
+C:\Users\F\Documents\GitHub\Backend-Website\obj\Debug\netcoreapp2.1\Backend-Website.csproj.CoreCompileInputs.cache
+C:\Users\F\Documents\GitHub\Backend-Website\obj\Debug\netcoreapp2.1\Backend-Website.RazorAssemblyInfo.cache
+C:\Users\F\Documents\GitHub\Backend-Website\obj\Debug\netcoreapp2.1\Backend-Website.RazorAssemblyInfo.cs
+C:\Users\F\Documents\GitHub\Backend-Website\obj\Debug\netcoreapp2.1\Backend-Website.AssemblyInfoInputs.cache
+C:\Users\F\Documents\GitHub\Backend-Website\obj\Debug\netcoreapp2.1\Backend-Website.AssemblyInfo.cs
+C:\Users\F\Documents\GitHub\Backend-Website\obj\Debug\netcoreapp2.1\Backend-Website.RazorTargetAssemblyInfo.cache
+C:\Users\F\Documents\GitHub\Backend-Website\obj\Debug\netcoreapp2.1\Backend-Website.dll
+C:\Users\F\Documents\GitHub\Backend-Website\obj\Debug\netcoreapp2.1\Backend-Website.pdb
